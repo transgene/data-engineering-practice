@@ -1,3 +1,6 @@
 *.idea*
 *.DS_Store*
 *postgres-data*
+.venv
+.vscode
+Exercises/Exercise-1/downloads
